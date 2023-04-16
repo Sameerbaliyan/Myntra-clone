@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    background-color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: 'ubuntu'sans-serif;
+}
+
+
+nav ul{
+    display: flex;
+    align-items: center; 
+    list-style: none;
+    color: antiquewhite;
+    background-color: black;
+}
+
+nav ul li{
+    padding: 0 20px;
+}
+
+nav ul li input{
+    width: 200px;
+    height: 30px;
+}
+
+.uuu{
+    width: -100px;
+    height: -30px;
+}
